@@ -1,3 +1,5 @@
+'use strict';
+
 import throttle from "lodash.throttle";
 
 const qs = selector => document.querySelector(selector);
